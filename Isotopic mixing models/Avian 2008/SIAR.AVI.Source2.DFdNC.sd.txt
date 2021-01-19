@@ -1,0 +1,6 @@
+Source	Mean15N	Sd15N	Mean13C	Sd13C
+AVI.Ecrystal.dCN	2.067	0.165	-0.806	0.428
+AVI.Esuperb.dCN	2.067	0.165	-0.806	0.428
+AVI.Tmacrura.dCN	2.067	0.165	-0.806	0.428
+AVI.Eantarc.dCN	2.067	0.165	-0.806	0.428
+AVI.Pantarcticum.dCN	2.067	0.165	-0.806	0.428
