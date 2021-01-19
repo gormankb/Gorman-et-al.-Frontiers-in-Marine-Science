@@ -1,1 +1,0 @@
-Source	Mean15N	Sd15N	Mean13C	Sd13CPAL.Esupb.dCN	2.067	0.165	-0.806	0.428PAL.Tmacrura.dCN	2.067	0.165	-0.806	0.428PAL.Eantarc.dCN	2.067	0.165	-0.806	0.428
